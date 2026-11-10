@@ -1,5 +1,0 @@
-,IoU promedio,Desviación estándar
-HSV,0.481,0.141
-HSV + Contornos,0.531,0.129
-HSV + Morfología + Centroides,0.513,0.154
-U-Net,0.332,0.079
